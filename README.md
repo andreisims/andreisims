@@ -1,51 +1,68 @@
-<h1>Hello and welcome. I'm Andrei! <br/>DevOps</a>, Networking</a>, and Cybersecurity Student</a></h1>
+# Hello and welcome to my page! I'm Andrei (pronounced Andre)
+<a href="https://linkedin.com/in/andrei-sims-ab040426"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sims.andrei@gmail.com"><img src="https://img.shields.io/badge/-email-777BB4?&style=for-the-badge&logo=gmail&logoColor=green" /></a>
 
-<h2>👨‍DevOps Projects:</h2>
+I am a technical support specialist with over 10 years of experience, and currently enrolled in Cloud Computing at <a href="https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html">WGU</a>. Looking for entry level Cloud Associate or SOC Analyst positions (Tier 1).
 
-- [Dockers](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2>Networking Projects:</h2>
-
-- [BGP]
-<h2>Cybersecurity Projects:</h2>
-
-- [Ransomware]
-
-<h2>Certifications:</h2>
-
-- [Mitre ATT@CK Defender (MAD)](https://app.cybrary.it/)
-- [Wireshark](https://www.linkedin.com/learning/wireshark-essential-training)
-- [Splunk](https://education.splunk.com/award/completion/5d88cb66-864e-3e6a-92f1-12b6b369685c)
+## Career Summary
+<div>
+  Technical Support • Software and Hardware Support • Firewall Analyst
+ <ul>
+  <li>Trained in cybersecurity, networking, and protocols (TCP/IP, DNS, DHCP, SSH) with experience working in Windows and Linux environments, while maintaining the company’s Information Security policies.</li>
+<li>Supported Help Desk ticket applications (Zendesk, Remedy, proprietary) to monitor and address hardware, networking, and software support requests.</li>
+<li>Knowledge of regulatory compliances (PCI, HIPAA, NIST, MITRE)</li>
+ </ul>
+</div>
 
 
-<h2>📺 Popular YouTube Videos</h2>
+## Skills and Projects
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-- [AWS Zero to Hero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Ride-sharing app on AWS                       | SOC Automation Lab|
+| Amazon Lex Chatbot with Facebook Messenger    | SOC Automation Lab|
+| Vulnerability Management with Nessus          | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## Tools
 
-<h2> 🤳 Connect with me:</h2>
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fortinet-4B275F?&style=for-the-badge&logo=Fortinet&logoColor=red" />  
+    <img src="https://img.shields.io/badge/-Cisco_Meraki-00A4EF?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-<!--- [twitter]: https://twitter.com/joshmadakor--->
-<!---[youtube]: https://www.youtube.com/c/joshmadakor--->
-<!---[instagram]: https://www.instagram.com/joshmadakor/--->
-[linkedin]: https://www.linkedin.com/in/andrei-sims-ab040426/
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Certifications
 
-Here are some ideas to get you started:
+<div>
+<a href=https://www.credly.com/badges/bb91c8d5-590f-422f-a3da-2ad7bf826026/public_url"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /a>
+<a href=https://www.credly.com/badges/8b89df43-598f-4411-aead-7bd12b4bca66/public_url"> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href=https://www.credly.com/badges/3e915175-2ea2-4f9f-b476-0532cd36b170/public_url"> <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href=https://training.fortinet.com/mod/customcert/verify_certificate.php> <img src="https://img.shields.io/badge/-Fortinet_NSE3-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk7.x_Fundamentals-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_(in_progress)-000080?&style=for-the-badge&logoColor=white" />  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projects
+- Detection Lab
+- SOC Automation Project
 -->
+
