@@ -58,7 +58,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 <a href=https://www.credly.com/badges/3e915175-2ea2-4f9f-b476-0532cd36b170/public_url"> <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk7.x_Fundamentals-000080?&style=for-the-badge&logoColor=white" />
 <a href=https://training.fortinet.com/mod/customcert/verify_certificate.php> <img src="https://img.shields.io/badge/-Fortinet_NSE3-006400?&style=for-the-badge&logoColor=white" />
-</div><img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_(in_progress)-000080?&style=for-the-badge&logoColor=white" /> 
+</div><img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_-000080?&style=for-the-badge&logoColor=white" /> 
 
 
 ## Projects
