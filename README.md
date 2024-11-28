@@ -73,8 +73,5 @@ I am a technical support specialist with over 10 years of experience, and curren
 </div><img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_-000080?&style=for-the-badge&logoColor=white" /> 
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
--->
+
 
