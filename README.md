@@ -1,4 +1,6 @@
 # Hello and welcome to my GitHub page! I'm Andrei.
+
+<h2> 🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/andrei-sims-ab040426"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sims.andrei@gmail.com"><img src="https://img.shields.io/badge/-email-777BB4?&style=for-the-badge&logo=gmail&logoColor=green" /></a>
 
