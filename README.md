@@ -36,7 +36,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 | Ride-sharing app on AWS                       | SOC Automation Lab|
 | Amazon Lex Chatbot with Facebook Messenger    | SOC Automation Lab|
 | Vulnerability Management with Nessus          | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Serverless Email Marketing Application | <a href="https://github.com/andreisims/Serverless-Email-Marketing-Application-on-AWS">AWS Serverless Email</a>|
 
 ## Tools
 
