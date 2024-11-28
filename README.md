@@ -1,8 +1,14 @@
-# Hello and welcome to my page! I'm Andrei (pronounced Andre)
+# Hello and welcome to my GitHub page! I'm Andrei (pronounced Andre).
 <a href="https://linkedin.com/in/andrei-sims-ab040426"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sims.andrei@gmail.com"><img src="https://img.shields.io/badge/-email-777BB4?&style=for-the-badge&logo=gmail&logoColor=green" /></a>
 
-I am a technical support specialist with over 10 years of experience, and currently enrolled in Cloud Computing at <a href="https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html">WGU</a>. Looking for entry level Cloud Associate or SOC Analyst positions (Tier 1).
+I am a technical support specialist with over 10 years of experience, and currently enrolled in Cloud Computing at <a href="https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html">WGU</a>. Looking for entry level Cloud Associate or SOC Analyst positions (Tier 1). Experienced in cybersecurity, network support, and technical troubleshooting. My passion lies in solving complex challenges and building reliable systems that drive efficiency and innovation.
+
+## About Me
+<li>Cybersecurity & Networking: Skilled in managing Next Generation Firewalls, ensuring PCI compliance, and fortifying networks against vulnerabilities.</li>
+<li>Cloud Enthusiast: Currently pursuing a Bachelor’s in Cloud Computing at Western Governors University and certified as an AWS Cloud Practitioner and CompTIA Cloud+.</li>
+<li>Tech Innovator: Proven track record of reducing ticket backlogs, implementing AI tools, and streamlining troubleshooting processes to enhance user experiences.</li>
+
 
 ## Career Summary
 <div>
