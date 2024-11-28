@@ -6,7 +6,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 
 ## About Me
 <li>Cybersecurity & Networking: Skilled in managing Next Generation Firewalls, ensuring PCI compliance, and fortifying networks against vulnerabilities.</li>
-<li>Cloud Enthusiast: Currently pursuing a Bachelor’s in Cloud Computing and certified as an AWS Cloud Practitioner and CompTIA Cloud+.</li>
+<li>Cloud Enthusiast: Currently pursuing a Bachelor’s in Cloud Computing with current certifications by AWS (Cloud Practitioner) and CompTIA (Cloud+).</li>
 <li>Tech Innovator: Proven track record of reducing ticket backlogs, implementing AI tools, and streamlining troubleshooting processes to enhance user experiences.</li>
 
 ## Key Skills
