@@ -29,16 +29,18 @@ I am a technical support specialist with over 10 years of experience, and curren
 
 
 ## Skills and Projects
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Cloud                                        | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Ride-sharing app on AWS                       | SOC Automation Lab|
+| Amazon Lex Chatbot with Facebook Messenger    | SOC Automation Lab|
+| Serverless Email Marketing Application | <a href="https://github.com/andreisims/Serverless-Email-Marketing-Application-on-AWS">AWS Serverless Email</a>|
+
+| Cybersecurity                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Ride-sharing app on AWS                       | SOC Automation Lab|
-| Amazon Lex Chatbot with Facebook Messenger    | SOC Automation Lab|
 | Vulnerability Management with Nessus          | SOC Automation Lab|
-| Serverless Email Marketing Application | <a href="https://github.com/andreisims/Serverless-Email-Marketing-Application-on-AWS">AWS Serverless Email</a>|
 
 ## Tools
 
