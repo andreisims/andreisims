@@ -46,7 +46,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 |-----------------------------------------------|----------------------------|
 | Cloud Resume Challenge          | <a href="https://github.com/andreisims/Elastic-SIEM">Elastic SIEM Lab</a>|
 | Python - 100 Days of Code | <a href="https://google.com">Detection Lab</a>|
-| C#          | SOC Automation Lab|
+| Slack, Discord Bots         | SOC Automation Lab|
 
 ## Tools
 
