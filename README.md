@@ -49,6 +49,11 @@ I am a technical support specialist with over 10 years of experience, and curren
 | Slack, Discord Bots         | SOC Automation Lab|
 | Sports Wagering Bot |      |
 
+| Iaac/Automation                                        | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Terraform         | SOC Automation Lab|
+| Ansible |      |
+
 ## Tools
 
 ### Network
