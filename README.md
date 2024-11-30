@@ -88,7 +88,6 @@ I am a technical support specialist with over 10 years of experience, and curren
 <a href=https://training.fortinet.com/mod/customcert/verify_certificate.php> <img src="https://img.shields.io/badge/-Fortinet_NSE3-006400?&style=for-the-badge&logoColor=white" />
 </div><img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_-000080?&style=for-the-badge&logoColor=white" /> 
 
-[website](google.com)
 
 ![github image](https://github.com/user-attachments/assets/0f387acd-7a98-4cfa-a792-49c1084a0804)
 
