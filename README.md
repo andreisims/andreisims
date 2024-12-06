@@ -61,7 +61,7 @@ I am a technical support specialist with over 10 years of experience, and curren
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/Fortinet-4B275F?&style=for-the-badge&logo=Fortinet&logoColor=red" />  
     <img src="https://img.shields.io/badge/-Cisco_Meraki-00A4EF?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-777BB4?&style=for-the-badge&logo=Nessus&logoColor=white" />
 </div>
 
 ### Endpoint
