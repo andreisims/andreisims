@@ -32,9 +32,10 @@ I am a technical support specialist with over 10 years of experience, and curren
 
 | Cloud                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Ride-sharing app on AWS                       | SOC Automation Lab|
+| Resume Website with Nginx and Disaster Recovery                    |                            |
 | Amazon Lex Chatbot with Facebook Messenger    | <a href="https://github.com/andreisims/Chat-Experiences-with-Generative-AI">Generative AI Chat</a>|
 | Serverless Email Marketing Application | <a href="https://github.com/andreisims/Serverless-Email-Marketing-Application-on-AWS">AWS Serverless Email</a>|
+| Ride-sharing app on AWS                       |                            |
 
 | Cybersecurity                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
