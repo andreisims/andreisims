@@ -32,7 +32,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 
 | Cloud                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Resume Website with Nginx and Disaster Recovery                    |                            |
+| Resume Website with Nginx and Disaster Recovery | <a href="https://github.com/andreisims/Resume-Website-with-Nginx">Resume Website</a>                            |
 | Amazon Lex Chatbot with Facebook Messenger    | <a href="https://github.com/andreisims/Chat-Experiences-with-Generative-AI">Generative AI Chat</a>|
 | Serverless Email Marketing Application | <a href="https://github.com/andreisims/Serverless-Email-Marketing-Application-on-AWS">AWS Serverless Email</a>|
 | Ride-sharing app on AWS                       |                            |
