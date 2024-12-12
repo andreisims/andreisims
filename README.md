@@ -1,4 +1,5 @@
 # Hello and welcome to my GitHub page! I'm Andrei.
+[![maroongold](https://github-readme-stats.vercel.app/api?username=andreisims&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/andrei-sims-ab040426"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
