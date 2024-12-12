@@ -38,15 +38,15 @@ I am a technical support specialist with over 10 years of experience, and curren
 
 | Coding                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cloud Resume Challenge          | |
-| Python - 100 Days of Code | |
-| Slack, Discord Bots         | |
-| Sports Wagering Bot |      |
+| Cloud Resume Challenge                        |                            |
+| Python - 100 Days of Code                     |                            |
+| Slack, Discord Bots                           |                            |
+| Sports Wagering Bot                           |                            |
 
 | Iaac/Automation                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Terraform         | |
-| Ansible |      |
+| Terraform                                     |                            |
+| Ansible                                       |                            |
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andreisims&icon=0&color=0)](https://visitcount.itsvg.in)
