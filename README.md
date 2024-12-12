@@ -1,33 +1,25 @@
-# Hello and welcome to my GitHub page! I'm Andrei.
-[![maroongold](https://github-readme-stats.vercel.app/api?username=andreisims&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
-
-<h2> 🤳 Connect with me:</h2>
-<a href="https://linkedin.com/in/andrei-sims-ab040426"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sims.andrei@gmail.com"><img src="https://img.shields.io/badge/-email-777BB4?&style=for-the-badge&logo=gmail&logoColor=green" /></a>
-
+# 💫 About Me:
 I am a technical support specialist with over 10 years of experience, and currently enrolled in Cloud Computing at <a href="https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html">WGU</a>. Looking for entry level Cloud Associate or SOC Analyst positions (Tier 1). Experienced in cybersecurity, network support, and technical troubleshooting. My passion lies in solving complex challenges and building reliable systems that drive efficiency and innovation.
 
-## About Me
-<li>Cybersecurity & Networking: Skilled in managing Next Generation Firewalls, ensuring PCI compliance, and fortifying networks against vulnerabilities.</li>
-<li>Cloud Enthusiast: Currently pursuing a Bachelor’s in Cloud Computing with current certifications by <b>AWS (Cloud Practitioner)</b> and <b>CompTIA (Cloud+)</b>.</li>
-<li>Tech Innovator: Proven track record of reducing ticket backlogs, implementing AI tools, and streamlining troubleshooting processes to enhance user experiences.</li>
 
-## Key Skills
-<li>Technical Proficiency: DNS, DHCP, SSH, Windows, Linux, Firewall Management, Virtualization, and Scripting.</li>
-<li>Customer-Centric Approach: Strong background in end-user support, vendor liaison, and regulatory compliance.</li>
-<li>Certifications: CompTIA (A+, Security+, Network+), Fortinet NSE3, and more.</li>
+## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red)](https://sims.andrei@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/asims313) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-sims-ab040426) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/-AWS_Cloud_Practitioner_-000080?&style=for-the-badge&logoColor=white)
+![CompTIA Cloud+](https://img.shields.io/badge/-Cloud%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)
+![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)
+![Network+](https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)
+![CompTIA A+](https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white)
+![Splunk Fundamentals](https://img.shields.io/badge/-Splunk7.x_Fundamentals-000080?&style=for-the-badge&logoColor=white)
+![Fortinet NSE3](https://img.shields.io/badge/-Fortinet_NSE3-006400?&style=for-the-badge&logoColor=white)
+ 
 
-## Career Summary
-<div>
-  Technical Support • Software and Hardware Support • Firewall Analyst
- <ul>
-  <li>Trained in cybersecurity, networking, and protocols (TCP/IP, DNS, DHCP, SSH) with experience working in Windows and Linux environments, while maintaining the company’s Information Security policies.</li>
-<li>Supported Help Desk ticket applications (Zendesk, Remedy, proprietary) to monitor and address hardware, networking, and software support requests.</li>
-<li>Knowledge of regulatory compliances (PCI, HIPAA, NIST, MITRE)</li>
- </ul>
-</div>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=andreisims&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andreisims&theme=gruvbox&hide_border=false)<br/>
 
 ## Skills and Projects
 
@@ -56,41 +48,9 @@ I am a technical support specialist with over 10 years of experience, and curren
 | Terraform         | |
 | Ansible |      |
 
-## Tools
+---
+[![](https://visitcount.itsvg.in/api?id=andreisims&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Fortinet-4B275F?&style=for-the-badge&logo=Fortinet&logoColor=red" />  
-    <img src="https://img.shields.io/badge/-Cisco_Meraki-00A4EF?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-777BB4?&style=for-the-badge&logo=Nessus&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-
-<div>
-<a href=https://www.credly.com/badges/bb91c8d5-590f-422f-a3da-2ad7bf826026/public_url"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href=https://www.credly.com/badges/8b89df43-598f-4411-aead-7bd12b4bca66/public_url"> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href=https://www.credly.com/badges/3e915175-2ea2-4f9f-b476-0532cd36b170/public_url"> <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href=https://www.credly.com/badges/8b89df43-598f-4411-aead-7bd12b4bca66/public_url"> <img src="https://img.shields.io/badge/-Cloud%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk7.x_Fundamentals-000080?&style=for-the-badge&logoColor=white" />
-<a href=https://training.fortinet.com/mod/customcert/verify_certificate.php> <img src="https://img.shields.io/badge/-Fortinet_NSE3-006400?&style=for-the-badge&logoColor=white" />
-</div><img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_-000080?&style=for-the-badge&logoColor=white" /> 
-
-
-![github image](https://github.com/user-attachments/assets/0f387acd-7a98-4cfa-a792-49c1084a0804)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
