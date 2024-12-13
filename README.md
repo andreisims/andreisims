@@ -45,7 +45,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 
 | Iaac/Automation                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Terraform                                     |                            |
+| Jenkins                                     |                            |
 | Ansible                                       |                            |
 
 ---
