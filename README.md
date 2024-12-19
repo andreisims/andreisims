@@ -35,12 +35,6 @@ I am a technical support specialist with over 10 years of experience, and curren
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Vulnerability Management with Nessus          | |
 
-| Coding                                        | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Cloud Resume Challenge                        |                            |
-| Python - 100 Days of Code                     |                            |
-| Slack, Discord Bots                           |                            |
-| Sports Wagering Bot                           |                            |
 
 | Iaac/Automation                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
