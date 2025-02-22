@@ -31,7 +31,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 
 | Cybersecurity                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/andreisims/Elastic-SIEM">Elastic SIEM Lab</a>|
+| SIEM Implementation and Log Analysis          | Elastic SIEM 
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Vulnerability Management with Nessus          | |
 
