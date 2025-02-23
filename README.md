@@ -28,7 +28,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 | Amazon Lex Chatbot with Facebook Messenger    | <a href="https://github.com/andreisims/Chat-Experiences-with-Generative-AI">Generative AI Chat</a>|
 | Serverless Email Marketing Application | <a href="https://github.com/andreisims/Serverless-Email-Marketing-Application-on-AWS">AWS Serverless Email</a>|
 | Auto Scaling Group with Elastic Load Balancer or AWS |                        |
-| REST API with Lambda
+| REST API with Lambda       | <a href="https://github.com/andreisims/REST-API-with-Lambda">REST API with Lambda</a>|
 
 
  Cybersecurity                                        | Associated Project         |
