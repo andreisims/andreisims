@@ -13,7 +13,11 @@ I am a technical support specialist with over 10 years of experience, and curren
 ![Network+](https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white)
 ![Splunk Fundamentals](https://img.shields.io/badge/-Splunk7.x_Fundamentals-000080?&style=for-the-badge&logoColor=white)
-![Fortinet NSE3](https://img.shields.io/badge/-Fortinet_NSE3-006400?&style=for-the-badge&logoColor=white)
+![Fortinet NSE3](https://img.shields.io/badge/-Fortinet_NSE3-006400?&style=for-the-badge&logoColor=white) 
+![Maven](https://img.shields.io/badge/MAVEN-000000?style=for-the-badge&logo=apachemaven&logoColor=blue)
+
+
+
  
 
 # 📊 GitHub Stats:
