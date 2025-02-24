@@ -43,6 +43,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 | Jenkins                                     |  <a href="https://github.com/andreisims/Jenkins">Jenkins</a>                           |
 | Cloudformation                              | <a href="https://github.com/andreisims/Simple-AWS-CloudFormation-Stack-and-Change-Set">Cloudformation Stack and Change Set</a>|                          |
 | Docker Containers on AWS Fargate            |                            |
+| Maven | <a href="https://github.com/andreisims/Maven">Maven on AWS</a>  
 
 
 [![](https://visitcount.itsvg.in/api?id=andreisims&icon=0&color=0)](https://visitcount.itsvg.in)
