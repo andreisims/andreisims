@@ -37,7 +37,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 
  Cybersecurity                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Elastic SIEM 
+| Azure Honeypot          | Elastic SIEM 
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Vulnerability Management with Nessus          | |
 
