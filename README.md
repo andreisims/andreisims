@@ -37,7 +37,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 
  Cybersecurity                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure Honeypot          | Elastic SIEM 
+| Azure Honeypot          | <a href="https://github.com/andreisims/Azure-Honeypot">Honeypot</a>|
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Vulnerability Management with Nessus          | |
 
