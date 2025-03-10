@@ -19,6 +19,9 @@ I am a technical support specialist with over 10 years of experience, and curren
 ![Maven](https://img.shields.io/badge/MAVEN-000000?style=for-the-badge&logo=apachemaven&logoColor=blue)
 ![Jenkins](https://img.shields.io/badge/JENKINS-000000?style=for-the-badge&logo=jenkins&logoColor=red)
 ![Qualys TotalCloud](https://img.shields.io/badge/QUALYS_TOTALCLOUD-000000?style=for-the-badge&logo=qualys&logoColor=green)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Nexxus](https://img.shields.io/badge/NEXXUS-000000?style=for-the-badge&logo=nexusmods&logoColor=DA291C)
+![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-000000?style=for-the-badge&logo=virustotal&logoColor=394EFF)
 
 
 
