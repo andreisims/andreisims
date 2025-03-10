@@ -35,9 +35,10 @@ I am a technical support specialist with over 10 years of experience, and curren
 | REST API with Lambda       | <a href="https://github.com/andreisims/REST-API-with-Lambda">REST API with Lambda</a>|
 
 
- Cybersecurity                                        | Associated Project         |
+ Cloud and Cybersecurity                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Azure Honeypot          | <a href="https://github.com/andreisims/Azure-Honeypot">Honeypot</a>|
+| CSPM on AWS |                                              |
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Vulnerability Management with Nessus          | |
 
