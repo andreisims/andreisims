@@ -47,7 +47,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 |-----------------------------------------------|----------------------------|
 | Azure Honeypot          | <a href="https://github.com/andreisims/Azure-Honeypot">Honeypot</a>|
 | CSPM on AWS |    <a href="https://github.com/andreisims/REST-API-with-Lambda">Cloud Security Posture Management</a>                                          |
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
+| Malware-Analysis | <a href="https://github.com/andreisims/Malware-Analysis">Malware Analysis Lab</a> |
 | Vulnerability Management with Nessus          | |
 
 
