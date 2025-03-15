@@ -34,11 +34,12 @@ I am a technical support specialist with over 10 years of experience, and curren
 
 ## Skills and Projects
 
-| SOC                                        | Associated Project         |
+| SOC                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Resume Website with Nginx and Disaster Recovery | <a href="https://github.com/andreisims/Resume-Website-with-Nginx">Resume Website</a>                            |
 | Amazon Lex Chatbot with Facebook Messenger    | <a href="https://github.com/andreisims/Chat-Experiences-with-Generative-AI">Generative AI Chat</a>|
-|  | |
+| Powershell Logs  | <a href="https://github.com/andreisims/Powershell-Logs/tree/main">Powershell</a>|
+| Malware-Analysis | <a href="https://github.com/andreisims/Malware-Analysis">Malware Analysis Lab</a> |
 | Auto Scaling Group with Elastic Load Balancer or AWS |                        |
 
 
@@ -47,7 +48,6 @@ I am a technical support specialist with over 10 years of experience, and curren
 |-----------------------------------------------|----------------------------|
 | Azure Honeypot          | <a href="https://github.com/andreisims/Azure-Honeypot">Honeypot</a>|
 | CSPM on AWS |    <a href="https://github.com/andreisims/REST-API-with-Lambda">Cloud Security Posture Management</a>                                          |
-| Malware-Analysis | <a href="https://github.com/andreisims/Malware-Analysis">Malware Analysis Lab</a> |
 | Serverless Email Marketing Application         | <a href="https://github.com/andreisims/Serverless-Email-Marketing-Application-on-AWS">AWS Serverless Email</a> |
 | REST API with Lambda       | <a href="https://github.com/andreisims/running-CSPM-on-AWS">REST API with Lambda</a>|
 
