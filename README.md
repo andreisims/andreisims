@@ -52,7 +52,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 | REST API with Lambda       | <a href="https://github.com/andreisims/running-CSPM-on-AWS">REST API with Lambda</a>|
 
 
-| IaaC/Automation                                        | Associated Project         |
+| IaC/Automation                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Jenkins                                     |  <a href="https://github.com/andreisims/Jenkins">Jenkins</a>                           |
 | Cloudformation                              | <a href="https://github.com/andreisims/Simple-AWS-CloudFormation-Stack-and-Change-Set">Cloudformation Stack and Change Set</a>|                          |
