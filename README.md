@@ -47,9 +47,9 @@ I am a technical support specialist with over 10 years of experience, and curren
  Cloud and Cybersecurity                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Azure Honeypot          | <a href="https://github.com/andreisims/Azure-Honeypot">Honeypot</a>|
-| CSPM on AWS |    <a href="https://github.com/andreisims/REST-API-with-Lambda">Cloud Security Posture Management</a>                                          |
+| CSPM on AWS |    <a href="https://github.com/andreisims/running-CSPM-on-AWS">Cloud Security Posture Management</a>                                          |
 | Serverless Email Marketing Application         | <a href="https://github.com/andreisims/Serverless-Email-Marketing-Application-on-AWS">AWS Serverless Email</a> |
-| REST API with Lambda       | <a href="https://github.com/andreisims/running-CSPM-on-AWS">REST API with Lambda</a>|
+| REST API with Lambda       | <a href="https://github.com/andreisims/REST-API-with-Lambda">REST API with Lambda</a>|
 
 
 | IaC/Automation                                        | Associated Project         |
