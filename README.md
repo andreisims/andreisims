@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a technical support specialist with over 10 years of experience, and currently enrolled in Cloud Computing at <a href="https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html">WGU</a>. Looking for entry level Cloud Associate or SOC Analyst positions (Tier 1). Experienced in cybersecurity, network support, and technical troubleshooting. My passion lies in solving complex challenges and building reliable systems that drive efficiency and innovation.
+I am a technical support specialist with over 10 years of experience, and currently enrolled in Cloud Computing at <a href="https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html">WGU</a>. Looking for entry level Cloud Associate or SOC Analyst positions (Tier 1). Experienced in cybersecurity, network support, cloud platforms, and technical troubleshooting. My passion lies in solving complex challenges and building reliable systems that drive efficiency and innovation.
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red)](mailto:sims.andrei@gmail.com) 
