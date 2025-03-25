@@ -24,6 +24,7 @@ I am a technical support specialist with over 10 years of experience, and curren
 ![Nexxus](https://img.shields.io/badge/NEXXUS-FF0000?&style=for-the-badge&logo=nexusmods&logoColor=DA291C)
 ![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-006400?&style=for-the-badge&logo=virustotal&logoColor=394EFF)
 ![Terraform](https://img.shields.io/badge/TERRAFORM-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![sonarCloud](https://img.shields.io/badge/SonarCloud-%23F3702A.svg?style=for-the-badge&logo=sonarcloud&logoColor=white)
 
 
 
