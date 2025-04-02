@@ -25,9 +25,7 @@ I am a technical support specialist who has transitioned into cloud computing & 
 ![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-006400?&style=for-the-badge&logo=virustotal&logoColor=394EFF)
 ![Terraform](https://img.shields.io/badge/TERRAFORM-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![sonarCloud](https://img.shields.io/badge/SonarCloud-%23F3702A.svg?style=for-the-badge&logo=sonarcloud&logoColor=white)
-
-
-
+![Snyk](https://img.shields.io/badge/SNYK-4C4C73?style=for-the-badge&logo=snyk&logoColor=white)
 
  
 
