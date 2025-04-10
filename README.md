@@ -65,9 +65,7 @@ I am a technical support specialist who has transitioned into cloud computing & 
 | Snyk SCA with Jenkins | <a href="https://github.com/andreisims/Integrate-SCA-Scan-into-Jenkins-Pipeline.git">Snyk SCA</a>  |
 
 
-[![](https://visitcount.itsvg.in/api?id=andreisims&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Visitor Count](https://profile-counter.glitch.me/andreisims/count.svg)
 
 ----
 
