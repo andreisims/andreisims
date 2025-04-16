@@ -64,8 +64,7 @@ I am a technical support specialist who has transitioned into cloud computing & 
 | SonarCloud SAST with Jenkins | <a href="https://github.com/andreisims/Integrate-SonarCloud-into-Jenkins">SonarCloud SAST</a>  |
 | Snyk SCA with Jenkins | <a href="https://github.com/andreisims/Integrate-SCA-Scan-into-Jenkins-Pipeline.git">Snyk SCA</a>  |
 
-
-![Visitor Count](https://profile-counter.glitch.me/andreisims/count.svg)
+👀 Visitors: ![Visitor Count](https://profile-counter.glitch.me/andreisims/count.svg)
 
 ----
 
