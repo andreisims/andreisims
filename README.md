@@ -13,7 +13,7 @@ I am a technical support specialist who has transitioned into cloud computing & 
 ![CompTIA A+](https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white)
 ![Splunk Fundamentals](https://img.shields.io/badge/-Splunk7.x_Fundamentals-000080?&style=for-the-badge&logoColor=white)
 ![Fortinet NSE3](https://img.shields.io/badge/-Fortinet_NSE3-006400?&style=for-the-badge&logoColor=white) 
-![Microsoft AZ-900 In Progress](https://img.shields.io/badge/Microsoft_AZ--900-In_Progress-FF8C00?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft AZ-900](https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Oracle SQL Certified Associate In Progress](https://img.shields.io/badge/Oracle_SQL_Certified_Associate-In_Progress-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 # 💻 Tech Stack:
