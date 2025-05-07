@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a technical support specialist who has transitioned into cloud computing & cybersecurity. Currently pursuing BS in Cloud Computing at <a href="https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html">WGU</a>. Certifications: AWS Cloud Practitioner | CompTIA Cloud+/Security+/Network+ | Microsoft AZ-900 (in progress) | Fortinet NSE3. Experienced in cybersecurity, network support, cloud platforms, and technical troubleshooting. Passionate about infrastructure-as-code (IaC), cloud security, and SOC operations
+I am a technical support specialist who has transitioned into cloud computing & cybersecurity. Currently pursuing BS in Cloud Computing at <a href="https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html">WGU</a>. Certifications: AWS Cloud Practitioner | CompTIA Cloud+/Security+/Network+ | Microsoft AZ-900. Experienced in cybersecurity, network support, cloud platforms, and technical troubleshooting. Passionate about infrastructure-as-code (IaC), cloud security, and SOC operations
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red)](mailto:sims.andrei@gmail.com) 
