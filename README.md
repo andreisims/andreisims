@@ -40,7 +40,12 @@ I am a technical support specialist who has transitioned into cloud computing & 
 
 ## Skills and Projects
 
-| SOC                        | Associated Project         |
+| GRC                        | Associated Projects         |
+|-----------------------------------------------|----------------------------|
+| SOC 2 Risk Register (Sample Project) | <a href="https://github.com/andreisims/Resume-Website-with-Nginx">Resume Website</a>    |
+
+
+| SOC                        | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | Resume Website with Nginx and Disaster Recovery | <a href="https://github.com/andreisims/Resume-Website-with-Nginx">Resume Website</a>                            |
 | Amazon Lex Chatbot with Facebook Messenger    | <a href="https://github.com/andreisims/Chat-Experiences-with-Generative-AI">Generative AI Chat</a>|
@@ -50,7 +55,7 @@ I am a technical support specialist who has transitioned into cloud computing & 
 
 
 
- Cloud and Cybersecurity                                        | Associated Project         |
+ Cloud and Cybersecurity                                        | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | Azure Honeypot          | <a href="https://github.com/andreisims/Azure-Honeypot">Honeypot</a>|
 | CSPM on AWS |    <a href="https://github.com/andreisims/running-CSPM-on-AWS">Cloud Security Posture Management</a>                                          |
@@ -58,7 +63,7 @@ I am a technical support specialist who has transitioned into cloud computing & 
 | REST API with Lambda       | <a href="https://github.com/andreisims/REST-API-with-Lambda">REST API with Lambda</a>|
 
 
-| IaC/Automation                                        | Associated Project         |
+| IaC/Automation                                        | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | Jenkins                                     |  <a href="https://github.com/andreisims/Jenkins">Jenkins</a>                           |
 | Cloudformation                              | <a href="https://github.com/andreisims/Simple-AWS-CloudFormation-Stack-and-Change-Set">Cloudformation Stack and Change Set</a>|                          |
