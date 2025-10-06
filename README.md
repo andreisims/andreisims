@@ -42,7 +42,7 @@ I am a technical support specialist who has transitioned into cloud computing & 
 
 | GRC                        | Associated Projects         |
 |-----------------------------------------------|----------------------------|
-| SOC 2 Risk Register (Sample Project) | <a href="https://github.com/andreisims/sample-IT-Risk-Register)">Risk Register</a>    |
+| SOC 2 Risk Register (Sample Project) | <a href="https://github.com/andreisims/sample-IT-Risk-Register">Risk Register</a>    |
 
 
 | SOC                        | Associated Projects         |
