@@ -31,6 +31,8 @@ I am a technical support specialist who has transitioned into cloud computing & 
 ![sonarCloud](https://img.shields.io/badge/SonarCloud-%23F3702A.svg?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![Snyk](https://img.shields.io/badge/SNYK-4C4C73?style=for-the-badge&logo=snyk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![NIST CSF](https://img.shields.io/badge/NIST%20CSF-006400?style=for-the-badge&logo=NIST&logoColor=blue)
+![Compliance: SOC2](https://img.shields.io/badge/Compliance-SOC2-%235835CC.svg?style=for-the-badge&logo=SOC2&logoColor=white)
 
  
 
