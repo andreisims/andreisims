@@ -45,6 +45,7 @@ I am a technical support specialist who has transitioned into cloud computing, G
 | GRC                        | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | SOC 2 Risk Register (Sample Project) | <a href="https://github.com/andreisims/sample-IT-Risk-Register">Risk Register</a>    |
+| FedRAMP AC-2 Account Management | <a href="https://github.com/andreisims/FedRAMP-AC-2-Account-Management/tree/main">FedRAMP</a>    |
 
 
 | SOC                        | Associated Projects         |
