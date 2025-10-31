@@ -11,10 +11,11 @@ I am a technical support specialist who has transitioned into cloud computing, G
 ![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)
 ![Network+](https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white)
+![MITRE ATT&CK Defender](https://img.shields.io/badge/-MITRE_ATT%26CK%20Fundamentals-8A2BE2?&style=for-the-badge&logo=The%20MITRE%20Corporation&logoColor=white)
 ![Splunk Fundamentals](https://img.shields.io/badge/-Splunk7.x_Fundamentals-000080?&style=for-the-badge&logoColor=white)
 ![Fortinet NSE3](https://img.shields.io/badge/-Fortinet_NSE3-006400?&style=for-the-badge&logoColor=white) 
 ![Microsoft AZ-900](https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![CCSP](https://img.shields.io/badge/CCSP-In%20Progress-brightgreen?logo=icloud&logoColor=white)
+![Project In Progress](https://img.shields.io/badge/-Project%2B%20(In%20Progress)-important?&style=for-the-badge&logo=CompTIA&logoColor=white)
 
 
 
