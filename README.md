@@ -16,6 +16,8 @@ I am a technical support specialist who has transitioned into cloud computing, G
 ![Fortinet NSE3](https://img.shields.io/badge/-Fortinet_NSE3-006400?&style=for-the-badge&logoColor=white) 
 ![Microsoft AZ-900](https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Project In Progress](https://img.shields.io/badge/-Project%2B%20(In%20Progress)-important?&style=for-the-badge&logo=CompTIA&logoColor=white)
+![AWS Certified AI Practitioner (in progress)](https://img.shields.io/badge/AWS_Certified_AI_Practitioner-in_progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 
 
