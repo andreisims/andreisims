@@ -55,7 +55,7 @@ I am a technical support specialist who has transitioned into cloud computing, G
 | SOC                        | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | Resume Website with Nginx and Disaster Recovery | <a href="https://github.com/andreisims/Resume-Website-with-Nginx">Resume Website</a>                            |
-| Amazon Lex Chatbot with Facebook Messenger    | <a href="https://github.com/andreisims/Chat-Experiences-with-Generative-AI">Generative AI Chat</a>|
+| Amazon Lex Chatbot (GenAI)    | <a href="https://github.com/andreisims/Chat-Experiences-with-Generative-AI">Generative AI Chat</a>|
 | Powershell Logs  | <a href="https://github.com/andreisims/Powershell-Logs/tree/main">Powershell</a>|
 | Malware-Analysis | <a href="https://github.com/andreisims/Malware-Analysis">Malware Analysis Lab</a> |
 | Auto Scaling Group with Elastic Load Balancer or AWS |                        |
