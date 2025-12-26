@@ -52,7 +52,7 @@ I am a technical support specialist who has transitioned into cloud computing, G
 | Automating Audits with Prowler | <a href="https://github.com/andreisims/Automating-Audits">Audits with Prowler</a> |
 
 
-| SOC                        | Associated Projects         |
+| AI and SOC                        | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | Resume Website with Nginx and Disaster Recovery | <a href="https://github.com/andreisims/Resume-Website-with-Nginx">Resume Website</a>                            |
 | Amazon Lex Chatbot (GenAI)    | <a href="https://github.com/andreisims/Chat-Experiences-with-Generative-AI">Generative AI Chat</a>|
