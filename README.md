@@ -59,6 +59,7 @@ I am a technical support specialist who has transitioned into cloud computing, A
 | Powershell Logs  | <a href="https://github.com/andreisims/Powershell-Logs/tree/main">Powershell</a>|
 | Malware-Analysis | <a href="https://github.com/andreisims/Malware-Analysis">Malware Analysis Lab</a> |
 | Auto Scaling Group with Elastic Load Balancer or AWS |                        |
+| Interactive Resume AI Agent (JotForm AI) | <a href="https://agent.jotform.com/019b9ff6a9c47399a4a597c46114ad55a198">Resume Chatbot</a> |
 
 
 
