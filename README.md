@@ -1,5 +1,21 @@
-# 💫 About Me:
-I am a technical support specialist who has transitioned into cloud computing, AI (Agentic, Generative), GRC, & cybersecurity. Currently pursuing BS in Cloud Computing at <a href="https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html">WGU</a>. Certifications: AWS Cloud Practitioner | CompTIA Cloud+/Security+/Network+ | Microsoft AZ-900. Experienced in cybersecurity, network support, cloud platforms, and technical troubleshooting. Professional develop include PCI Compliance, Implementing the NIST Cybersecurity Framework, infrastructure-as-code (IaC), cloud security, and SOC operations
+# About Me
+
+I’m a Technical Support Specialist turned Cloud & Security Engineer in training, focused on building reliable, secure, and observable cloud systems. Currently pursuing a BS in Cloud Computing at WGU, with hands-on experience across cloud platforms, networking, cybersecurity, and AI-powered automation.
+
+I’ve designed and implemented solutions in:
+- **Cloud Platforms:** AWS (Cloud Practitioner), Microsoft Azure (AZ-900), Microsoft Azure Developer Associate (AZ-204, in progress)
+- **Cybersecurity & GRC:** CompTIA Security+, Network+, Cloud+, PCI Compliance, NIST Cybersecurity Framework  
+- **Infrastructure & Automation:** Infrastructure-as-Code (IaC), SOC operations, monitoring, and incident response  
+- **AI & Automation:** Generative and agentic AI for workflow and operational efficiency  
+
+I combine technical troubleshooting, system monitoring, and cloud security best practices to solve real-world problems—building projects that demonstrate observability, reliability, and automation. My goal is to transition into Cloud Support Engineering or Site Reliability Engineering roles where I can improve uptime, reduce incident resolution time, and strengthen system security.
+
+---
+
+## 🔧 Featured Projects
+- Linux Monitoring & Observability Stack (Prometheus + Grafana)  
+- AWS Cloud Misconfiguration Scanner  
+- AI-Assisted SOC Workflow Automation  
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red)](mailto:sims.andrei@gmail.com) 
